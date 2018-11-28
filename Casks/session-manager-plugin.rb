@@ -1,5 +1,5 @@
 cask 'session-manager-plugin' do
-  version '1.0.37.0'
+  version 'latest'
   sha256 :no_check
 
   # s3.amazonaws.com/session-manager-downloads was verified as official when first introduced to the cask
